@@ -1,0 +1,34 @@
+Coca Cola, 0.4, 124
+Papas Fritas, 0.2, 348
+Fresa, 0.01, 12
+Naranja, 0.3, 200
+Manzana, 0.2, 150
+Banana, 0.3, 100
+Zanahoria, 0.1, 50
+Brocoli, 0.5, 75
+Coca Cola, 0.4, 124
+Papas Fritas, 0.2, 348
+Fresa, 0.01, 12
+Naranja, 0.3, 200
+Manzana, 0.2, 150
+Banana, 0.3, 100
+Zanahoria, 0.1, 50
+Brocoli, 0.5, 75
+Pastel, 0.2, 780
+Coca Cola, 0.4, 124
+Papas Fritas, 0.2, 348
+Fresa, 0.01, 12
+Naranja, 0.3, 200
+Manzana, 0.2, 150
+Banana, 0.3, 100
+Zanahoria, 0.1, 50
+Brocoli, 0.5, 75
+Coca Cola, 0.4, 124
+Papas Fritas, 0.2, 348
+Fresa, 0.01, 12
+Naranja, 0.3, 200
+Manzana, 0.2, 150
+Banana, 0.3, 100
+Zanahoria, 0.1, 50
+Brocoli, 0.5, 75
+Pastel, 0.2, 780
